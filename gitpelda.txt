@@ -1,0 +1,4 @@
+git clone
+git add gitpelda.txt
+git commit -m "gitpelda.txt hozzaadva"
+git push
